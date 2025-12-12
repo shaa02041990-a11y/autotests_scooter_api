@@ -1,7 +1,5 @@
-__pycache__/
-*.py
-.pytest_cache/
 venv/
-.venv/
-.vscode/
+__pycash__/
+*.log
+*.tmp
 .DS_Store
