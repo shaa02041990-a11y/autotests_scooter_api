@@ -3,3 +3,5 @@ __pycash__/
 *.log
 *.tmp
 .DS_Store
+*.pyc
+.pytest_cache/
